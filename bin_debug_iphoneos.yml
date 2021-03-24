@@ -1,0 +1,6 @@
+---
+configuration_env: dev
+code_repo_url: http://git.qpaas.com/PaasPods/PaasSpecs.git
+binary_repo_url: http://git.qpaas.com/PaasPods/PaasBinSpecs.git
+binary_download_url: http://10.0.16.48:8080/frameworks/%s/%s/zip
+download_file_type: zip
